@@ -1,7 +1,3 @@
-Entendido! Sem problemas. A ideia é um README que funcione como uma galeria rápida, mostrando o visual do site de forma direta.
-
-Aqui está uma versão muito mais visual e concisa, com foco total nas imagens.
-
 🚗 Landing Page - BYD Song Plus
 Uma landing page responsiva e moderna para apresentação do veículo BYD Song Plus.
 
