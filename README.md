@@ -14,7 +14,6 @@
 <img width="1916" height="1165" alt="Screenshot 2025-10-05 155122" src="https://github.com/user-attachments/assets/11ca764a-1ec6-46c2-a74e-9893b1e18ea9" />
 <img width="1893" height="1195" alt="Screenshot 2025-10-05 155140" src="https://github.com/user-attachments/assets/1a837a76-7924-4719-a9e4-a7e365de8d70" />
 <img width="1892" height="1199" alt="Screenshot 2025-10-05 155155" src="https://github.com/user-attachments/assets/8c4239d7-89e9-48ba-8d08-40ead7938df6" />
-<img width="1902" height="1100" alt="Screenshot 2025-10-05 155202" src="https://github.com/user-attachments/assets/f65d53af-f916-4d5b-bf25-c293d0581a5d" />
 
 🚀 Executando
 Bash
